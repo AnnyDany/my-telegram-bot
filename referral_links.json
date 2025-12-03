@@ -1,0 +1,23 @@
+{
+  "disclaimer": "Это реклама, ну потому что реклама",
+  "links": {
+    "tour": {
+      "name": "🎯 Подобрать тур",
+      "url": "https://t.me/anydanybum",
+      "expires_at": "2026-11-28T15:08:40.216656",
+      "active": true
+    },
+    "tours": {
+      "name": "🎭 Экскурсии",
+      "url": "https://experience.tripster.ru/u/0945098a26/",
+      "expires_at": "2026-02-26T15:07:40.427325",
+      "active": true
+    },
+    "flights": {
+      "name": "✈️ Авиабилеты",
+      "url": "https://www.aviasales.com/?marker=YOUR_MARKER",
+      "expires_at": "2026-11-28T13:43:53.380721",
+      "active": true
+    }
+  }
+}
